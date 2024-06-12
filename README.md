@@ -1,8 +1,8 @@
 # Overview
 
-{Provide a description of your software}
+Program that prints "Hello World!"
 
-{Describe your purpose for creating this software.}
+Purpose is for BYUI applied programming class. 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
