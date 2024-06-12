@@ -4,7 +4,7 @@ Program that prints "Hello World!"
 
 Purpose is for BYUI applied programming class. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/NiCMoZ2L7II)
 
 # Development Environment
 
