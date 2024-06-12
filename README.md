@@ -4,18 +4,15 @@ Program that prints "Hello World!"
 
 Purpose is for BYUI applied programming class. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The tool used to develop the software is Visual Studio Code.
 
-{Describe the programming language that you used}
+Python is the programming language used for this software. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.w3schools.com/python/ref_func_print.asp)
+* [Web Site Name](https://recorder.easeus.com/screen-recording-tips/screen-record-on-mac-with-camera.html#:~:text=Click%20the%20%22File%22%20tab%2C,matter%20what%20application%20you%20use.)
